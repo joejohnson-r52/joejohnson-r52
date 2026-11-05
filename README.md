@@ -1,8 +1,8 @@
 [<img width="2000" height="600" alt="Black and Red Gradient Professional LinkedIn Banner" src="https://github.com/user-attachments/assets/381b4d17-d350-4a06-ab78-ab6d80e876af" />
-](https://www.linkedin.com/in/joe-h-johnson/)
+](https://joedevelops.co.uk/)
 ---
 
-![GitHub Visits](https://badges.strrl.dev/visits/joejohnson-r52/joejohnson-r52) [![Connect on LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joe-h-johnson/)
+![GitHub Visits](https://badges.strrl.dev/visits/joejohnson-r52/joejohnson-r52) [![Connect on LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joe-h-johnson/) [![Visit my website](https://img.shields.io/badge/-Visit%20my%20website-2ea44f?style=flat-square&logo=googlechrome&logoColor=white)](https://joedevelops.co.uk/)
 
 ---
 
